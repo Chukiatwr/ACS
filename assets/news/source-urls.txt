@@ -1,0 +1,11 @@
+news-01.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790777788291-830594618_1106844928867087_2416187503910882768_n.jpg
+news-02.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790778309192-796355403_1099431722941741_4315666207787590510_n.jpg
+news-03.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790778624978-813661838_1095037503381163_7290035960586397150_n.jpg
+news-04.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790778544514-813372744_1095043260047254_3314263240482666348_n.jpg
+news-05.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790778303881-809235371_1092512730300307_8939176563040664303_n.jpg
+news-06.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790778397227-819088102_1098671603017753_2278579991373097614_n.jpg
+news-07.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790778821302-799308279_1087062997511947_6283641550103336926_n.jpg
+news-08.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790783703389-811866485_1093280186890228_5302784853070262400_n.jpg
+news-09.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790783782169-809910787_1092534676964779_3218286752415311966_n.jpg
+news-10.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790779069595-792324060_1086651317553115_854359144585317226_n.jpg
+news-11.jpg	https://jmexeeugomufbqjvofhu.supabase.co/storage/v1/object/public/acs-website/news-thumbnail/1790784064543-789580376_1080231294861784_7145403310006809364_n.jpg

@@ -35,3 +35,12 @@ Version 0.11 updates: supplied ACS logo, compact page banners, footer Staff link
 - Added Thai mirror pages under `/th/` and functional TH/EN language switching on every page.
 - Made the language selector visually prominent.
 - Added a graduate-study link to Master Degree in Data Innovation and AI below “What students learn” on Study.
+
+
+## v22
+- Added horizontally scrollable News sections to English and Thai home pages using ACS_KMUTT_recent_news(1).xlsx.
+- News source images are referenced from the Figure URLs; a source URL manifest is stored under assets/news/source-urls.txt.
+
+
+## v24 update
+- Moved the KMUTT Bangmod campus map below the Find us panels, expanded it to viewport width, and linked it to the official KMUTT MapNavi page in both English and Thai Contact pages.
