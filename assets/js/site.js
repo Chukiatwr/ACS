@@ -10,3 +10,17 @@ function scrollNews(direction){
   const step=card ? card.getBoundingClientRect().width + 18 : 360;
   track.scrollBy({left:direction==='left'?-step:step,behavior:'smooth'});
 }
+
+
+// Version 10: make desktop dropdowns tolerant of pointer movement in Chrome.
+window.addEventListener('DOMContentLoaded',()=>{
+  document.querySelectorAll('.menu-item.dropdown').forEach(drop=>{
+    let closeTimer=null;
+    const open=()=>{ if(closeTimer) clearTimeout(closeTimer); drop.classList.add('is-open'); };
+    const close=()=>{ if(closeTimer) clearTimeout(closeTimer); closeTimer=setTimeout(()=>drop.classList.remove('is-open'),220); };
+    drop.addEventListener('pointerenter',open);
+    drop.addEventListener('pointerleave',close);
+    const menu=drop.querySelector('.dropdown-menu');
+    if(menu){ menu.addEventListener('pointerenter',open); menu.addEventListener('pointerleave',close); }
+  });
+});

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acs.kmutt.ac.th/sitemap.xml
